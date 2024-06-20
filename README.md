@@ -1,4 +1,4 @@
-# CogniCore
+# CognxCore
 Google Gemini api python package
 
 ## Installation
