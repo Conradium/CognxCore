@@ -1,7 +1,11 @@
 # CogniCore
 Google Gemini api python package
 
-Install with ```bash
+## Installation
+
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install CognxCore.
+
+```bash
 pip install CognxCore
 ```
 
