@@ -16,7 +16,7 @@ from cognxcore import CogniCore
 
 #Google Gemini API Key
 api_key = input("Enter your API key: ")
-ai = CognxCore(api_key)
+ai = CogniCore(api_key)
 
 #Prompt and response
 prompt = input("Enter your prompt: ")
@@ -24,6 +24,8 @@ response = ai.generate_content(prompt)
 print(response)
 
 ```
+It should also create a config file you can modify within your script directory.
+
 
 ## Contributing
 
