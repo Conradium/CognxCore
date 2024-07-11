@@ -6,13 +6,13 @@ Google Gemini api python package
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install CognxCore.
 
 ```bash
-pip install CognxCore
+pip install cognxcore
 ```
 
 ## Usage
 
 ```python
-import CognxCore
+from cognxcore import CogniCore
 
 #Google Gemini API Key
 api_key = input("Enter your API key: ")
