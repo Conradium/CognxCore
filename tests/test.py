@@ -8,3 +8,5 @@ ai = cc(api_key)
 prompt = input("Enter your prompt: ")
 response = ai.generate_content(prompt)
 print(response)
+
+
