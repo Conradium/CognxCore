@@ -3,7 +3,8 @@
     "generation_config": {
         "temperature": 1,
         "top_p": 1,
-        "top_k": 1
+        "top_k": 1,
+        "max_output_tokens": 512
     },
     "system_instruction": "You are a virtual assistant, your job is to be as informative as possible. Try to be neutral on your answers.",
     "safety_settings": [
